@@ -12,3 +12,7 @@ features:
 <br>
 <br>
 Maybe someday I will add a more finished version :)
+<br>
+Screenshot:
+<br>
+<img src="https://github.com/Alderrden/MarsOS/blob/main/Screenshot.png">
